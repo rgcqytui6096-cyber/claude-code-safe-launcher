@@ -24,12 +24,6 @@
 
 作者目前按这个方案使用，尚未被封号。但这只是个人使用状态，不构成保证。
 
-## 联系方式
-
-- 邮箱：xiaoshi274521@gmail.com
-- 小红书：95494353222
-- X / Twitter：[@Orangek21865157](https://x.com/Orangek21865157)
-
 ## 快速安装
 
 ### 一行安装
@@ -302,3 +296,9 @@ bash scripts/uninstall.sh
 ## License
 
 MIT
+
+## 联系方式
+
+- 邮箱：xiaoshi274521@gmail.com
+- 小红书：95494353222
+- X / Twitter：[@Orangek21865157](https://x.com/Orangek21865157)
