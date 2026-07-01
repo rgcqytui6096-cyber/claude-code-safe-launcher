@@ -1,6 +1,6 @@
 # Claude Code Safe Launcher
 
-Claude Code 不是一个普通 App：它能读取文件、执行 Shell 命令、读代码、改配置、操作 Git 仓库，也可能调用 MCP、浏览器和数据库工具。
+最近 Claude / Claude Code 封号很严重，很多用户开始检查本机环境变量、代理配置和第三方 provider key 有没有被 Claude 启动时静默继承。
 
 这个项目给 Claude Code 终端版和 Claude 桌面端加一层启动前安全闸门：
 
@@ -30,12 +30,8 @@ Claude Code 不是一个普通 App：它能读取文件、执行 Shell 命令、
 
 邮箱：xiaoshi274521@gmail.com
 
-其他联系方式：
-
-- GitHub：
-- 小红书：
-- 公众号：
-- X / Twitter：
+- 小红书：火鸡科学家，号：95494353222
+- X / Twitter：[@Orangek21865157](https://x.com/Orangek21865157)
 
 ## 快速安装
 
