@@ -40,7 +40,9 @@ bash scripts/install.sh
 
 详细步骤看这里：
 
-[桌面端和终端安装教程](docs/INSTALL.zh-CN.md)
+[macOS 桌面端图文安装教程](docs/INSTALL.zh-CN.md)
+
+说明：这个工具不能保证你一定不被封号，只是减少 Claude 启动时继承异常环境变量、第三方 key、provider 路由变量带来的风险。
 
 ## 它挡什么
 
